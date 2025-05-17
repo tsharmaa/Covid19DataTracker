@@ -22,6 +22,9 @@ This project visualizes global and regional COVID-19 trends over time using publ
 ### Data Source:
 - Data is sourced from [Our World in Data COVID-19 Dataset](https://ourworldindata.org/covid-cases).
 
+## Live Demo:
+You can explore the interactive COVID-19 trends dashboard here: https://public.tableau.com/views/covid-19_17474915736130/Sheet1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+
 ---
 
 Feel free to explore and analyze the data. If you have any questions or need further customization, feel free to reach out!
